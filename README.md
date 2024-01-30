@@ -45,7 +45,7 @@ cases.
 Modular Design: Each test case is designed as a separate function (like Login, UserCreate,
 projectCreate) to promote reusability and readability.
 
-Test Case Running Details and Evidence:
+Test Case Running Details :
 
 Here is the test cases list:
 Case 1: Wrong ID
